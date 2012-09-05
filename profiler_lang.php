@@ -17,7 +17,7 @@ $lang['profiler_no_post']         = 'Brak danych typu POST';
 $lang['profiler_no_get']          = 'Brak danych typu GET';
 $lang['profiler_no_uri']          = 'Brak danych typu URI';
 $lang['profiler_no_memory']       = 'Dane o zużyciu pamięci są niedostępne';
-$lang['profiler_no_profiles']     = 'Brak danych dla Profilera - wszyskie sekcje Profilera zostały wyłączone.';
+$lang['profiler_no_profiles']     = 'Brak danych dla Profilera - wszystkie sekcje profilera zostały wyłączone.';
 $lang['profiler_section_hide']    = 'Ukryj';
 $lang['profiler_section_show']    = 'Pokaż';
 
