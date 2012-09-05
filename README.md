@@ -4,7 +4,7 @@ Wersja 2.1.2
 
 ## Instalacja ##
 
-Utworz folder o nazwie ``polish`` w katalogu ``application/language``.
+Utworz folder o nazwie ``polish`` w katalogu ``application/language`` wgraj do niego wszystkie pliki z repozytorium.
 
 W pliku konfiguracji ``application/config.php`` ustaw domyślny język na polski:
 
