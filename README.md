@@ -1,6 +1,6 @@
 ﻿# Polskie pliki językowe dla frameworka CodeIgniter##
 
-Wersja 2.1.2
+Wersja 2.1.3
 
 ## Instalacja ##
 
