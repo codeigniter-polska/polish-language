@@ -6,7 +6,7 @@ Wersja 2.1.3
 
 Utworz folder o nazwie ``polish`` w katalogu ``application/language`` wgraj do niego wszystkie pliki z repozytorium.
 
-W pliku konfiguracji ``application/config.php`` ustaw domyślny język na polski:
+W pliku konfiguracji ``application/config/config.php`` ustaw domyślny język na polski:
 
 ``$config['language']	= 'polish';``
 
