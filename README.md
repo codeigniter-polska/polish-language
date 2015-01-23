@@ -1,6 +1,6 @@
 ﻿# Polskie pliki językowe dla frameworka CodeIgniter##
 
-Wersja 2.1.3
+Pliki są przeznaczone dla wersji 2.x. Dla wersji 3, proszę skorzystać z plików z [oficjalnego repozytorium](https://github.com/bcit-ci/codeigniter3-translations)
 
 ## Instalacja ##
 
